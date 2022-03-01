@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Rogers's Scourge of Tow fired,</title>
+            <author>Richardson, Richard, 1623?-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09709</idno>
+            <idno type="OCLC"> 124064260</idno>
+            <idno type="STC">Wing P1401</idno>
+            <idno type="STC">ESTC R181644</idno>
+            <idno type="EEBO-CITATION">124064260</idno>
+            <idno type="OCLC">ocn 124064260</idno>
+            <idno type="VID">192317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192317)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2915:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Rogers's Scourge of Tow fired,</title>
+                  <author>Richardson, Richard, 1623?-1689.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by John Bringhurst ... in Leaden-Hall Mutton-Market,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P 7. signed: Richard Richardson.</note>
+                  <note>Place of publication and printer from printer's ad on p. [1] at end.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogers, William, d. ca. 1709. --  Scourge for George Whitehead.</term>
+               <term>Whitehead, George, 1636?-1723.</term>
+               <term>Quakers --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192317:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:192317:1"/>
+            <head>
+               <hi>William Rogers's</hi> Scourge of Tow fired, with a Diſcharge By <hi>Proteſtants</hi> from his Charge of <hi>Popery.</hi>
+            </head>
+            <p>WILLIAM ROGERS has writ, <hi>A Scourge for George Whitehead,</hi> as he calls it; but it is as of Tow untwiſted, confirmed neither with Reaſons, Authoritys, nor Inſtances. The Summe is this, <hi>viz.</hi> 1. <hi>Outward Church-Government, is a thing Popiſh.</hi> 2. <hi>Be<g ref="char:EOLhyphen"/>lieveing as the True Church believes, is a thing Popiſh.</hi> 3. <hi>Complying with a general Implying, is a thing Popiſh.</hi> 
+               <note place="margin">His Paper conſiſting of ſix leaves, he inculcates, <hi>Pope, Papiſt, Popery,</hi> &amp;c. in five of them fifty times at leaſt. As for the other being moſt<g ref="char:EOLhyphen"/>ly Perſonal <hi>reflections</hi> on <hi>G. W.</hi> he ſleighting them as not worth adverſion, thinks them not worth anſwering n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r trouble, but to be left: and <hi>W. R.</hi> to the Lord for it.</note>
+            </p>
+            <p>Theſe his Poſitions implyed in his ſheet and half, (as far as I can underſtand it in the drift) being un<g ref="char:EOLhyphen"/>proved, his Suppoſitions applyed to us thereabout, prove nothing. Neither that <hi>R. R's Ingredients</hi> are Papiſtical, much leſs, ſufficiently Papiſtical; ſeeing <hi>W. R.</hi> though challenged before hand to do it, hath not at all offered to prove it, much leſs, ſufficiently proved it; having not brought any inſtances denying that, which <hi>R. R.</hi> hath confirmed by ſeveral Proteſt<g ref="char:EOLhyphen"/>ants. Only <hi>W. R.</hi> ſays, (p. 2.) <hi>Theſe Doctrines are oppoſed by Reformed Proteſtants,</hi> that's all. If he makes theſe 2 words, <hi>Reformed</hi> and <hi>Proteſtants</hi> all one, he ſhould have inſtanced ſome at leaſt, and cited them for proof. If he make <hi>Reformed</hi> a kind of <hi>Proteſtants,</hi> he ſhould have inſtanced whom he means, ſurely, himſelf, <hi>Criſp, Pennyman, Bullock</hi> &amp; <hi>Bugg,</hi> &amp;c. But moſt ſurely Himſelf, whom he overthrows &amp; his poſition againſt all Implicit Faith, which he would have implyed in himſelf, in willing Men to believe his bare aſſertion without any Inſtances, ſaying, <hi>All Reformed Proteſtants,</hi> &amp;c. As the <hi>Papiſt</hi> cry, <hi>All the Fathers,</hi> &amp;c. ſe<g ref="char:EOLhyphen"/>curely, becauſe the People, through Ignorance in them, cannot diſprove them.</p>
+            <p>
+               <hi>Richard Richardſon</hi> hath mentioned Implicit Faith, in ſome degree, owned by <hi>Proteſtants</hi> with inſtances.</p>
+            <p>
+               <hi>William Rogers</hi> ſays, <hi>'Tis opp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed by them, and hateful to them;</hi> 
+               <note place="margin">Autos ephe</note> but inſtances none but himſelf. His <hi>ſay ſo,</hi> ſeems to himſelf ſufficient, as he would have it to others. Is he not then ſufficiently Pa<g ref="char:EOLhyphen"/>piſtical by his own Poſition?</p>
+            <pb facs="tcp:192317:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:192317:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:192317:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:192317:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="2" facs="tcp:192317:4" rendition="simple:additions"/>
+And as to his inſtance, which he cites <hi>R. R.</hi> a witneſs to, <hi>viz.</hi> that ſome Papiſts hold themſelves not bound, if not voting, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>R. R.</hi> anſwers with another inſtance,viz. that ſome Proteſtants have maintained, that Men are bound to obedience, not only by the nature of the thing it ſelf (which they make account is unqueſtionably confeſſed) but further in reſpect of the command of them that are in Authority, if nothing appear contrary to Scripture, <hi>&amp;c.</hi> 
+               <note place="margin">See <hi>Roger Fenton,</hi> B D his Treatiſe againſt Uſury, Pa<g ref="char:EOLhyphen"/>tronized by th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord Chancellor, 1612.</note>
+            </p>
+            <p>This is far beyond his inſtance. Therefore to aſſert, that the nature of the thing it ſelf binds (though not ſo much) though not aſſented to, is not Papiſtical; <hi>Prot<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes</hi> holding it generally, (as here afterwards alſo appears) and ſome far further. So that <hi>W. R.</hi> may as well accuſe them all, as us; notwithſtanding what he alledges <hi>(de facto)</hi> of the practice of ſome Pa<g ref="char:EOLhyphen"/>piſts, <hi>&amp;c.</hi> upon politick grounds, ſiding with their Prince. This ſort are his inſtances to prove us Popiſh, namely, <hi>That Papiſts own the ſame that Proteſtants do.</hi> And he ſhews aſpiring to have implicit Faith placed on himſelf, becauſe he affirms anew what is anſwered already, without taking notice thereof; therefore his deſerves the leſs taking notice of: But only to anſwer his repeating by repeating, what was anſwered, <hi>viz G. W. explained his meaning to be,</hi> (as might appear to any ſimple mind) <hi>that a true Man muſt believe in God,</hi> &amp;c. <hi>as the true Church believes in God,</hi> &amp;c. <hi>not becauſe it doth.</hi> And likewiſe <hi>R. R.</hi> anſwer'd, <hi>The true Proteſtants receive ſomething infolded or implyed in anothers decla<g ref="char:EOLhyphen"/>ration,</hi> and inſtanced from D. <hi>Potter, Keckerman,</hi> &amp;c. As the <hi>Samari<g ref="char:EOLhyphen"/>tans</hi> believed the Woman's ſaying firſt, and afterward they ſaw and knew Chriſt themſelves, <hi>Joh.</hi> 4.16.</p>
+            <p>
+               <hi>Calvin</hi> ſays, <q>Many things are implicit to us, in which it is expedient for us to ſuſpend our Judgment, and confirm our mind to hold Unity with the Church. They (to wit Pa<g ref="char:EOLhyphen"/>piſts) define, that they believe rightly who are ſtupid in their Ignorance. We (to wit Proteſtants) grant Faith to be implicit. The beſt Teacher muſt be ready to learn. There were notable examples of implicit Faith in the Diſciples. It's call'd <hi>The Preparation of Faith, John</hi> 4.50, 53, 42.<note place="margin">
+                     <hi>Calvin,</hi> Inſtitut. l. 3. c. 2. §. 3. §. 4.</note>
+               </q> The Papiſts affect to hnow nothing. So <hi>Calvin,</hi> of whom they that are accounted the beſt Reformed amongſt Proteſtants, have the Name of <hi>Calviniſts</hi> given them.</p>
+            <p>
+               <pb n="3" facs="tcp:192317:4"/>
+His Succeſſor <hi>Beza,</hi> calls the Papiſts Implicit Faith. <q>A Diabolical Inſenſibility, and Believing in general.<note place="margin">
+                     <hi>Beza</hi> Annotation on <hi>Rom.</hi> 1.17.</note> 
+               </q>
+            </p>
+            <p>
+               <hi>Peter du Molin,</hi> calls it, <q>A reſting on the Faith of another without further enquiry; and a believing the Church, without ſeeking what the Church ought to believe; ſo an Idle Faith, affected Ignorance; fear<g ref="char:EOLhyphen"/>ing to know the will of God, leſt they ſhould be ob<g ref="char:EOLhyphen"/>liged to follow it</q>
+               <note place="margin">
+                  <hi>P. Molin,</hi> his E<g ref="char:EOLhyphen"/>piſtle to the Church of <hi>Rome.</hi>
+               </note>
+            </p>
+            <p>This is the Implicit Faith, hateful to the Reformed Church,ſuch as <hi>Du Molin</hi> intitules himſelf of (as the other) who was the chief Man in the <hi>French Proteſtant Church</hi> in <hi>Paris,</hi> which are accounted of the beſt Re<g ref="char:EOLhyphen"/>formed.<note place="margin">See <hi>Tho. Aquin.</hi> 1.2. qu. 13. Art, 5. Arg. 3.</note> And this is alſo hateful to us, but grateful to our Adverſaries, who think to be excuſed by affected or pretended Ignorance. To whom, as to this point, this may ſerve for anſwer; as to <hi>T. C.</hi> his ignorant yet alſo malicious Reflections. <hi>In. vin. p.</hi> 11. And <hi>F. B's.</hi> in very many places of his Books. and to their general clamour, not worthy of further notice at preſent, than what is here and followes. And as for <hi>W. R's.</hi> owning no ſetled Church-Government. (for no other ſort is in queſtion) He is either for none, and ſo a <hi>Libertine;</hi> or for that he ſpeaks of, and ac<g ref="char:EOLhyphen"/>counts Popiſh. So let him free himſelf from the <hi>Dilemma</hi> if he can. A ſhort anſwer to his ſhort poſition, either he confeſſes them of his mind, of no outward Church Society, ſo unchurching themſelves; contrary to the Primitive Chriſtians, who had ſuch Society, or elſe that Society without Government.<note place="margin">2 <hi>Cor.</hi> 8.4. 1 <hi>Tim.</hi> 3.4. &amp; 5.17. <hi>Heb.</hi> 3.7, 17, 24.</note> Cont<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary alſo therein to them, who had Government or Rule. And they that had it, were to be ſubmitted to, or elſe that Go<g ref="char:EOLhyphen"/>vernment is Unſtable and Arbitrary, and always altoge<g ref="char:EOLhyphen"/>ther uncertain, and ſo fails into that he finds fault with, the Papiſts un<g ref="char:EOLhyphen"/>written ve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ities, as they call them, written only in the Popes breſt, as they ſpeak of ſome unwritten Laws in the Lawyers breſts. But <hi>Cook</hi> ſays, <hi>That the great<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Authority is of the written.</hi> And the Proteſants believe and hold againſt the Papiſts, that what the Apoſtle delivered to the Churches, was writ alſo in his Epiſtles.<note place="margin">2 <hi>Th ſſ</hi> 2. 15. &amp; 3 6. <hi>John</hi> 14 25. &amp; 16.13.</note> And in all Ages thoſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hom God raiſed up ex<g ref="char:EOLhyphen"/>traordinarily, in every diſpenſation left in writing their Doctrine and Diſcipline. Which <hi>W. R.</hi> it ſeems diſowns. And there<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:192317:5"/>the Scriptures containing generals, and ſo left for our learning, times and other circumſtances diſtinguiſhed. And ſo contradicts his Aſſociate <hi>F. B.</hi> (who would make himſelf the head of their Society, in propound<g ref="char:EOLhyphen"/>ing a ceſſation) for he makes the Scriptures the rule exactly, even to circumſtances, challenging <hi>G. F.</hi> in them.</p>
+            <p>But that he has called me for a Witneſs to, he thinks, belike, his Maſter piece worth twice Printing; what pity his Memory (equalling his reading and skill in Tranſlating) ſhould no ſooner hit the Mark, to make us in Union or Diſunion with the Papiſts. And ſo it might have been thrice Printed, (and I the third time call'd to witneſs it) what he ſays he read in <hi>Polario.</hi> Indeed I remember'd I had read ſuch a thing there, be<g ref="char:EOLhyphen"/>fore I read it in his; and the ſcope, namely ſtate matters to be in the caſe, and Policy, to pleaſe their Prince, that thoſe Politicians acted from, not Conſcience in Religion, nor neceſſity and uſe, but privare intereſt. A Difference depending, and a War impending between the Pope and French King, as the pages adjoyning ſhew; and it ſeems to be his ſcope to conceal this ſcope, that he cited not the page 320. read it &amp; p. <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and 321.</p>
+            <p>Put the Teſtimonys of the Fathers, <hi>Hilarius, Theodoret,</hi> &amp;c. (cited by them) we do own; for exceptions in Rules or Canons, upon the grounds of <hi>Neceſſicy or <g ref="char:V">Ʋ</g>ſe,</hi> which thoſe Papiſts neither ſhewed on their ſuppoſition then; nor can theſe Men ſufficiently ſhew on theirs now. And I can ſufficiently prove, that we are ſo far from going beyond the Papiſts, that we come ſhort of the Proteſtants, accounted the beſt reformed in this matter of exerciſing Church power about Rules, Orders, <hi>&amp;c.</hi> And thereto I have made choice of an Epitome of the Doctrine of <hi>Calvin, Beza, Zanchy, Hemingius, Aretius, Z<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge<g ref="char:EOLhyphen"/>dinus, Sadeel, Grynaeiui, Danaeus, Whittak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> and other the famouſeſt Men of the Proteſtant Churches in <hi>Germa<g ref="char:EOLhyphen"/>ny, Helvetia, Danemark, Hungaria, France, England,</hi> &amp;c.<note place="margin">
+                  <hi>Bucan.</hi> loc. co ſee his preface.</note> Which I may well oppoſe to his aſſertion of all Reſormed Proteſtants, naming none, not one proof or inſtance, for all his pretended reading, as if he knew them all,and all they ſaid. Take all aforeſaid epitomized in <hi>Bucan,</hi> having gathered from them, as followeth.<note place="margin">
+                  <hi>Loc.</hi> 43. Of the Power of the Church and Diſ<g ref="char:EOLhyphen"/>cipline.</note> 
+            </p>
+            <p>
+               <q>The power of the Church in delivering or making Laws is conſtitutive, ſo far, as that Paſtors and Governours of the Church
+<pb n="5" facs="tcp:192317:5"/>may eſtabliſh and abrogate certain Canons, Rules and Laws in out<g ref="char:EOLhyphen"/>ward and indifferent things, to appoint Polity, Order, Decency, and certain rites for Honeſty (or good report) and to cheriſh a conſent of all the outward Members of the Church in outward Worſhip, as the <hi>ne<g ref="char:EOLhyphen"/>ceſſity or uſe</hi> (uſefulneſs) of the Church ſeems to require. For ſuch Canons are not univerſal, in a great part, nor perpetual. <hi>Example,</hi> Firſt Meeting at <hi>Jeruſalem,</hi> and <hi>Paul.</hi> The ſame by Word and Epiſtle, taught by the Holy Ghoſt. Examples of ſuch Canons are: To Pray bare-headed; Decency to be kept in burying the Dead; Solemnizing Marriages; Certain days, hours and places; Order in Prayers and Preachings; and many other ſuch like things.</q>
+               <note place="margin">
+                  <hi>Col.</hi> 2.5. 1 <hi>Cor.</hi> 14.40. 1 <hi>Tim.</hi> 3.15. <hi>Act.</hi> 15.29.</note>
+            </p>
+            <p>Thus fur there, wherein we come a large ſtep ſhort of thoſe Proteſtants in impoſing, much leſs beyond the Papiſts, as he charges us.</p>
+            <p>Again they ſay, <q>Theſe Laws are eſtabliſhed or abrogated in particular Churches, by Paſtors and Elders; the whole Flock knowing and ap<g ref="char:EOLhyphen"/>proving. Not raſhly to be receeded from being confirmed by the Judg<g ref="char:EOLhyphen"/>ment of the Paſtors and Elders, and Gods word, and agreeing, and juſt reaſons. <note place="margin">
+                     <hi>Act.</hi> 15.2.22, 2<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 25.</note>General Meetings of the whole Church re<g ref="char:EOLhyphen"/>preſented by Delegates (or choſen Men) excelling in gifts of the Holy Ghoſt: As then, ſo now Chriſt ought to be preſent and Preſident in the Counſel of Doctors (or Teachers) to drive away Wolves, and determine Controverſies raiſed in the Church; and to conſtitute outward good order, ſuch as is expedient for the whole Church. <note place="margin">
+                     <hi>Mat.</hi> 18.20. <hi>Act.</hi> 15.28. 1 <hi>Cor.</hi> 5.4.</note>And it is the duty of Paſtors to foreſee (or provide) that no hurt befal the Church; but to ſtir up one another to meet in the Name of the whole Church in common Counſel; the Laies (or Common People) not being excluded. And the Judgment of Meetings in the midiſt whereof Chriſt is, who are gathered in his Name, is not to be deſpiſed. And ſuch Conſtitutions or Canons none can wittingly violate or contemn with a clear Conſcience; both in reſpect of Offence and contumacy.<note place="margin">1 <hi>Cor.</hi> 12.28.29.</note> But without offence of weak Brethren, and being hin<g ref="char:EOLhyphen"/>dered by juſt cauſes, it is lawful ſometimes to omit things with a clear Conſcience.<note place="margin">1 <hi>Cor.</hi> 14.40.</note> The effect and uſe hereof is <hi>Order,</hi> whereby Peace and Concord is kept in the well com<g ref="char:EOLhyphen"/>poſed
+<pb n="6" facs="tcp:192317:6" rendition="simple:additions"/>ſtate of the Church; and Decency for Piety, Modeſty and Gra<g ref="char:EOLhyphen"/>vity. If one offend another, admontion is to be uſed according to Chriſts rule.<note place="margin">
+                     <hi>Mat.</hi> 18.15, 16.</note> And they that profeſs themſelves Members of the Church are to be called to this Judgment.<note place="margin">1 <hi>Cor.</hi> 5.11. &amp;c.</note> This Judgment of the Church hath been from the Beginning of the World, and Chriſt continued it.<note place="margin">
+                     <hi>Gen.</hi> 4.26. &amp; 6.4. &amp; 26.4. <hi>Lev.</hi> 5.1. &amp; 13.2, 40. &amp; 14.2. <hi>Numb</hi> 5.2, 6. &amp; 19 1. &amp;c. <hi>Mat.</hi> 18.18. 1 <hi>Cor.</hi> 5.1, 2, 3. &amp;c. 1 <hi>Tim.</hi> 1.20.</note> And <hi>Paul,</hi> &amp;c.</q>
+            </p>
+            <p>Much more there appertaining to this Queſtion, which I have ſet down in as much brevity as the matter will al<g ref="char:EOLhyphen"/>low. And but for that, I could add to confirm this the particular Judgments of <hi>
+                  <g ref="char:V">Ʋ</g>rſin, Zanchy, Keckerman, Pareus, Junius,</hi> and ſeveral others in their ſyſtems and Works. See <hi>Hookers</hi> Church Government, and other writers on that Subject of our own Country; the Har<g ref="char:EOLhyphen"/>mony of Confeſſions of Proteſtant Churches. And then judge whether we go beyond the Papiſts or Proteſtants either in this mat<g ref="char:EOLhyphen"/>ter of impoſing of Diſcipline and Church Government. Which if <hi>W. R.</hi> and his party reject in general, ſeeming to own none (p. 1.) then he may take for his Authors, <hi>Coppin, Quatin, Claudin, Poquius, Ber<g ref="char:EOLhyphen"/>trand, &amp;c.</hi> and thoſe runners out among the ranting Libertines, <hi>Anti<g ref="char:EOLhyphen"/>monians, Anabaptists, &amp;c.</hi> of thoſe times, whom <hi>Calvin, Luther, Melancton, Brentius,</hi> and others write of. Beyond whom he takes a large ſtep, (his own phraſe) like thoſe whom <hi>Paul</hi> writes of,<note place="margin">
+                  <hi>Heb.</hi> 10.25.</note> whoſe manner was to forſake aſſembling themſelves together And <hi>Platonicks,</hi> who thought the Church to be at all times altogether inviſible.<note place="margin">
+                  <hi>Id. ibid.</hi> Ioc. 41.</note> So he goes a large ſtep, going beyond all outward Society and Govern<g ref="char:EOLhyphen"/>ment; and is far ſhort of having in double honour the Elders that rule well,<hi>&amp;c.</hi>
+               <note place="margin">1 <hi>Tim.</hi> 5.17,</note> 
+            </p>
+            <p>As for that wherein he charges us, for going a large ſtep beyond the Papiſts. They have been anſwered that we diſown it deny it, and have diſproved it again and again; and ſhewed that they of <hi>Barbadoes</hi> them<g ref="char:EOLhyphen"/>ſelves have diſown<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d it: And alſo <hi>G. F G. W.</hi> and <hi>A. P.</hi> in their Letter to them, which I have formerly illuſtrated by t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elve Reaſons, whereof <hi>Scandal</hi> is one; which <hi>T. C.</hi> pertinaciouſly, and <hi>W R</hi> yet here will have the only reaſon And their manner is, taking no notice of the anſwer, to affirm and reprint the ſame Charge over and over, after
+<pb n="7" facs="tcp:192317:6"/>the manner of <hi>T. Hicks,</hi> and other our Adverſaries, very unfairly; to deceive the Reader, and abuſe both him and us. And they might with more colour of reaſon charge the Apoſtle <hi>Peter,</hi> Exhorting to well doing and good Converſation, that he did it only to avoid Scandal, ſtop the Mouth, put to ſhame and ſi<g ref="char:EOLhyphen"/>lence foolliſh Accuſers; becauſe in that place that one motive is only mentioned by him.<note place="margin">1 <hi>Pet.</hi> 2. 15 &amp; 3.16.</note> Whereas in the ſaid Letter to <hi>Bar<g ref="char:EOLhyphen"/>bados</hi> it is a twelveth motive, there being eleven other weighty ones. yet all thoſe will not ſilence the Ignorance and Malice of <hi>W. R. T. C. F. B. &amp;c.</hi> ſo profound they are and inveterate. But without mention<g ref="char:EOLhyphen"/>ing them, they repeat and reprint. Retorting and perverting not only the thing diſown'd, but the very letter diſowning it, becauſe therein <hi>Scandal</hi> is alledged as a motive or reaſon, amongſt eleven other reaſons, why we diſown it.</p>
+            <closer>
+               <signed>Richard Richardſon.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="8" facs="tcp:192317:7"/>
+            <head>
+               <hi>ANSWERS</hi> Printed and Sold by <hi>John Bringhurſt,</hi> at the Sign of the <hi>Book</hi> and <hi>Three Black-Birds</hi> in <hi>Leaden-Hall Mutton-Market.</hi>
+            </head>
+            <list>
+               <item>1. AN Epiſtle of Cantion to Friends, to have a care of that Treache<g ref="char:EOLhyphen"/>rous Spirit that is entered into <hi>W. Rogers</hi> and his Abettors, &amp;c.</item>
+               <item>2. The Accuſer of our Brethren caſt down in Righteous Judgment, <hi>&amp;c.</hi> in Anſwer to <hi>W. R.</hi>
+               </item>
+               <item>3. <hi>R. R's.</hi> Ingredients againſt <hi>W. Rogers.</hi>
+               </item>
+               <item>4. An Exalted Diotrephes Reprehended, <hi>&amp;c.</hi> in Anſwer to <hi>W. R.</hi>
+               </item>
+               <item>5. Truth and Innocency triumphing over Falſhood and Envy, <hi>&amp;c.</hi> in Anſwer to <hi>W. R.</hi>
+               </item>
+               <item>6. Something in anſwer to <hi>W. R</hi>'s. Sixth and Eighth part of his <hi>Chriſtian Quaker, &amp;c.</hi>
+               </item>
+               <item>7. Righteous Judgments placed upon the Head of Malicious Op<g ref="char:EOLhyphen"/>poſers, <hi>&amp;c.</hi>
+               </item>
+               <item>8. The Liberty of an Apoſtate Conſcience diſcovered, <hi>&amp;c.</hi> Both in Anſwer to <hi>F. B.</hi>
+               </item>
+               <item>9. <hi>William Rogers's</hi> Scourge of Tow fired, &amp;c.</item>
+               <item>10. The Line of Truth and true Judgment, &amp;c.</item>
+            </list>
+            <pb facs="tcp:192317:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
